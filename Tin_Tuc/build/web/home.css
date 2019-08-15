@@ -1,0 +1,38 @@
+*{margin: 0 ;padding: 0;}
+
+a.page-link {
+    color: #2ae1e1;
+}
+
+ul.pagination {
+    padding-top: 26px;
+}
+
+.card {
+}
+
+form {
+    padding-bottom: 138px;
+}
+
+button.btn.btn-primary {}
+
+form {
+    padding-top: 30px;
+    
+}
+
+button.btn.btn-primary {
+    background-color: #43e3e3;
+}
+
+a.navbar-brand {
+    color: white;
+}
+
+.navbar {
+    background-color: #4aeded;
+}
+
+
+
